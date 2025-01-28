@@ -4,6 +4,6 @@ class New{
         int b = 10;
         int c = a + b ;
 
-        System.ou.println(c);
+        System.out.println(c);
     }
 }
